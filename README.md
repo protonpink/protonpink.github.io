@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# protonpink.github.io
-||||||| 5fc4a9b
+
+
 # protonpink.github.io
 =======
 ## Welcome to GitHub Pages
@@ -40,4 +39,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
->>>>>>> 93cd7b3bdee7f06f570e88918c16b82db09b7009
